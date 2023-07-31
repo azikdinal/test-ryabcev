@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.c5aa4df9.css",
+    "main.js": "/react-gh-pages/static/js/main.1f240102.js",
+    "static/media/luke_skywalker.png": "/react-gh-pages/static/media/luke_skywalker.982b27e009c95d760c74.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.c5aa4df9.css.map": "/react-gh-pages/static/css/main.c5aa4df9.css.map",
+    "main.1f240102.js.map": "/react-gh-pages/static/js/main.1f240102.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5aa4df9.css",
+    "static/js/main.1f240102.js"
+  ]
+}
